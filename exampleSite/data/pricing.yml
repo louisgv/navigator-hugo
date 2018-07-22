@@ -8,11 +8,11 @@ item  :
     price       : $99
     description : Perfect for single freelancers who work by themselves
     featurelist :
-      - item: 1GB Disk Space 
-      - item: 10 Email Account 
-      - item: Script Installer 
-      - item: 1 GB Storage 
-      - item: 10 GB Bandwidth 
+      - item: 1GB Disk Space
+      - item: 10 Email Account
+      - item: Script Installer
+      - item: 1 GB Storage
+      - item: 10 GB Bandwidth
       - item: 24/7 Tech Support
     btnText     : Sign Up
     btnURL      : https://themefisher.com/
@@ -21,12 +21,12 @@ item  :
     price       : $199
     description : Suitable for small businesses with up to 5 employees
     featurelist :
-      - item: 1GB Disk Space 
-      - item: 10 Email Account 
-      - item: Script Installer 
-      - item: 1 GB Storage 
-      - item: 10 GB Bandwidth 
-      - item: 24/7 Tech Support 
+      - item: 1GB Disk Space
+      - item: 10 Email Account
+      - item: Script Installer
+      - item: 1 GB Storage
+      - item: 10 GB Bandwidth
+      - item: 24/7 Tech Support
     btnText     : Sign Up
     btnURL      : https://themefisher.com/
 
@@ -34,11 +34,11 @@ item  :
     price       : $299
     description : Great for large businesses with more than 5 employees
     featurelist :
-      - item: 1GB Disk Space 
-      - item: 10 Email Account 
-      - item: Script Installer 
-      - item: 1 GB Storage 
-      - item: 10 GB Bandwidth 
+      - item: 1GB Disk Space
+      - item: 10 Email Account
+      - item: Script Installer
+      - item: 1 GB Storage
+      - item: 10 GB Bandwidth
       - item: 24/7 Tech Support
     btnText     : Sign Up
     btnURL      : https://themefisher.com/
