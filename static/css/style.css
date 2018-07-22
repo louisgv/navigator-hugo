@@ -760,7 +760,6 @@ a:focus, a:hover {
   height: 3px;
   background-color: #ffa535;
   background-image: linear-gradient(100deg, #f9643d, #fe2a77);
-  background-image: linear-gradient(100deg, #f9643d, #fe2a77);
 }
 
 @media (max-width: 768px) {
